@@ -1,0 +1,119 @@
+{
+  "configVersion": 1,
+  "timestamp": 1768322536270,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/index.html",
+        "/main.44eaa2093422f56b.js",
+        "/manifest.webmanifest",
+        "/polyfills.3e27e2c6bdd5cafc.js",
+        "/runtime.70930388761ac781.js",
+        "/styles.ad618b6c1d1877de.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/fonts/inter/Inter-Bold.woff2",
+        "/assets/fonts/inter/Inter-ExtraBold.woff2",
+        "/assets/fonts/inter/Inter-ExtraLight.woff2",
+        "/assets/fonts/inter/Inter-Light.woff2",
+        "/assets/fonts/inter/Inter-Medium.woff2",
+        "/assets/fonts/inter/Inter-Regular.woff2",
+        "/assets/fonts/inter/Inter-SemiBold.woff2",
+        "/assets/fonts/inter/Inter-Thin.woff2",
+        "/assets/icons/dashboard.svg",
+        "/assets/icons/delete.svg",
+        "/assets/icons/home.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/info.svg",
+        "/assets/icons/locked.svg",
+        "/assets/icons/logout.svg",
+        "/assets/icons/shift.svg",
+        "/assets/icons/shiftplan.svg",
+        "/assets/icons/unlocked.svg",
+        "/assets/icons/user.svg",
+        "/assets/icons/userlist.svg",
+        "/favicon.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/fonts/inter/Inter-Bold.woff2": "5cbf10e9f8be7dac2a365bfb21fe6ddf4641e569",
+    "/assets/fonts/inter/Inter-ExtraBold.woff2": "cac03874db7248d2d45a780dc6192026d0f17542",
+    "/assets/fonts/inter/Inter-ExtraLight.woff2": "59ed75f6a3f4f77b4ca3dd51141ae7632cdbb1bf",
+    "/assets/fonts/inter/Inter-Light.woff2": "231d1619844ad99435b50819a07cb5bc985c3578",
+    "/assets/fonts/inter/Inter-Medium.woff2": "d502bb1b3f812f62ce68e2b93cf6d2a5b9bc7120",
+    "/assets/fonts/inter/Inter-Regular.woff2": "b7a0b6fbebc40eb29b76cf135c4b7be50b981b4b",
+    "/assets/fonts/inter/Inter-SemiBold.woff2": "9cc2b10d4186b63c8d90be346069b2011451897c",
+    "/assets/fonts/inter/Inter-Thin.woff2": "36be8261c14ecbeebf3b22ad799d2eadee50a584",
+    "/assets/icons/dashboard.svg": "639f08cac993e7ff108dede4ba9951ec8ba03a67",
+    "/assets/icons/delete.svg": "bd67880693f1c25f93b5ccf79f69b905c300a450",
+    "/assets/icons/home.svg": "a0c1dafe782b06d027c6f47a05b8818800110855",
+    "/assets/icons/icon-128x128.png": "9a4f5d58ac25944d2e50e752af59926472a46b15",
+    "/assets/icons/icon-144x144.png": "891150816f05130883f68bf4db1c857a95dddf93",
+    "/assets/icons/icon-152x152.png": "90938491407b1248953c9f78a040d99bc547aab7",
+    "/assets/icons/icon-192x192.png": "2cbc7f8cac6dbbd6e8901133c18c320d3bffa4cc",
+    "/assets/icons/icon-384x384.png": "517452f2ceb68c22a94a58bbb0b2a3a848210744",
+    "/assets/icons/icon-512x512.png": "814c41c7081bc438c362f8097034ca1fa3c6a8aa",
+    "/assets/icons/icon-72x72.png": "cd9ae89679350091e3fadd912abe7acda6117ee2",
+    "/assets/icons/icon-96x96.png": "1be31a5b8e8dcd7c77a307019d1b57e1c7978939",
+    "/assets/icons/info.svg": "27e2ef43bf394c6ad3e1e87c08543c54478ef727",
+    "/assets/icons/locked.svg": "72792c72634b395fc3f2365fa6b795e5929db294",
+    "/assets/icons/logout.svg": "86310f38329ad068d45466a11644d16df92534c4",
+    "/assets/icons/shift.svg": "cb94c64503f22a4294cf2fdb51aa5ebd5887b037",
+    "/assets/icons/shiftplan.svg": "2dd7afb2ed95a9373b7eae01f770fb24af4152ba",
+    "/assets/icons/unlocked.svg": "25e15859f4aadff1f1dee441e66082bca0dfb2c2",
+    "/assets/icons/user.svg": "ce108ea44b9bd2f4dbdded93956235643f18549c",
+    "/assets/icons/userlist.svg": "f51729786e5251f0449c29245ec0cc63460b1a8b",
+    "/favicon.png": "41e6a6af95bf6f73fe25f5ce2afa98ca96240f47",
+    "/index.html": "bd03777d0a98bb41914e82fb462ee4f3ab72176c",
+    "/main.44eaa2093422f56b.js": "65eb0c7974aaeca0c7fa0e0b4af5d725dd796668",
+    "/manifest.webmanifest": "0a06b79c8264d092f7d58c1d751d69dcaf66013a",
+    "/polyfills.3e27e2c6bdd5cafc.js": "d65e90699e34ad0fc97ad36d9fd8b8d717fb54e3",
+    "/runtime.70930388761ac781.js": "df67b3f5634c32325516acf69c2dc54509a9592c",
+    "/styles.ad618b6c1d1877de.css": "36fe1a87f2d3fff31b1f584760599a3bad43eac3"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
