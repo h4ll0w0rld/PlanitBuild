@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768388780081,
+  "timestamp": 1768658798916,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.5565e115b9414af9.js",
+        "/main.201961946f209502.js",
         "/manifest.webmanifest",
         "/polyfills.3e27e2c6bdd5cafc.js",
         "/runtime.70930388761ac781.js",
@@ -83,15 +83,15 @@
     "/assets/icons/icon-96x96.png": "1be31a5b8e8dcd7c77a307019d1b57e1c7978939",
     "/assets/icons/info.svg": "27e2ef43bf394c6ad3e1e87c08543c54478ef727",
     "/assets/icons/locked.svg": "72792c72634b395fc3f2365fa6b795e5929db294",
-    "/assets/icons/logout.svg": "86310f38329ad068d45466a11644d16df92534c4",
+    "/assets/icons/logout.svg": "adc7733ecc82051ea6783d753f877f8a194f9de9",
     "/assets/icons/shift.svg": "cb94c64503f22a4294cf2fdb51aa5ebd5887b037",
     "/assets/icons/shiftplan.svg": "2dd7afb2ed95a9373b7eae01f770fb24af4152ba",
     "/assets/icons/unlocked.svg": "25e15859f4aadff1f1dee441e66082bca0dfb2c2",
     "/assets/icons/user.svg": "ce108ea44b9bd2f4dbdded93956235643f18549c",
     "/assets/icons/userlist.svg": "f51729786e5251f0449c29245ec0cc63460b1a8b",
     "/favicon.png": "41e6a6af95bf6f73fe25f5ce2afa98ca96240f47",
-    "/index.html": "7abb07810d8b473ab1e3344d52a849a386d695a9",
-    "/main.5565e115b9414af9.js": "f4f9cf7986f6fdf1cddc625e466bca5e16418347",
+    "/index.html": "32cfa37168a7c579e6e083adda1d0b2acc969359",
+    "/main.201961946f209502.js": "dfc99e12c7c4ff8f366d4771bb973873772ad157",
     "/manifest.webmanifest": "0a06b79c8264d092f7d58c1d751d69dcaf66013a",
     "/polyfills.3e27e2c6bdd5cafc.js": "d65e90699e34ad0fc97ad36d9fd8b8d717fb54e3",
     "/runtime.70930388761ac781.js": "df67b3f5634c32325516acf69c2dc54509a9592c",
